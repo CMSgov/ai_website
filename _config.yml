@@ -1,1 +1,5 @@
+# example config: https://github.com/usds/website/blob/master/_config.yml
 theme: jekyll-theme-cayman
+exclude: _ignored_files
+timezone: America/New_York
+encoding: utf-8
