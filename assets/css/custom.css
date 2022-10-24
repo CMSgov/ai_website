@@ -1,0 +1,50 @@
+body>section {
+    padding: 1rem;
+}
+
+section.usa-banner {
+    padding: 0;
+}
+
+section.usa-hero {
+    padding: 0;
+    background-image: url(/assets/img/ai_hero.jpg);
+}
+
+.usa-hero__callout {
+    background-color: #162e51f5;
+}
+
+section#leveraging,
+section#programs-and-initiatives {
+    border-color: #162e5116;
+}
+
+section#cms-ai-resources {
+    padding-right: 5%;
+    padding-left: 5%;
+}
+
+section#cms-ai-resources.custom-font {
+    background-color: #162e51;
+    color: white;
+    font-family: Source Sans Pro Web, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif !important;
+    line-height: 1.5 !important;
+}
+
+section#cms-ai-resources a {
+    color: white;
+}
+
+section#cms-ai-resources a:visited {
+    color: white;
+}
+
+.usa-identifier {
+    font-family: Public Sans Web, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+    font-size: 1rem;
+    line-height: 1.4;
+    color: white;
+    background-color: #162e51;
+    padding-bottom: 1rem;
+}
