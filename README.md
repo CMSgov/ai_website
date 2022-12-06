@@ -1,8 +1,6 @@
-# ai_at_cms2
+# CMS AI Website
 
-Second iteration of the AI @ CMS website
+- (AI graphic)[https://commons.wikimedia.org/wiki/File:Noun-artificial-intelligence-884535.svg] from wikimedia commons.
+- US Web Design Standards: https://designsystem.digital.gov/utilities/
 
-"AI" graphic from wikimedia commons: https://commons.wikimedia.org/wiki/File:Noun-artificial-intelligence-884535.svg
-
-See also:
-https://designsystem.digital.gov/utilities/
+For more information contact (Xingjia Wu)[mailto:xingjia.wu@cms.hhs.gov]
